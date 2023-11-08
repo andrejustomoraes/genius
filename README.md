@@ -34,4 +34,4 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-Divirta-se jogando o Genius e desafiando sua memória! Se você tiver alguma dúvida ou sugestões, não hesite em entrar em contato conosco.
+Divirta-se jogando o Genius e desafiando sua memória! Se você tiver alguma dúvida ou sugestões, não hesite em entrar em contato.
